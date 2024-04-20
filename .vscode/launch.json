@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-zad3Application<zajecia3>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.technologie.zad3.zad3Application",
+            "projectName": "zajecia3",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
